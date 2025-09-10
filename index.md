@@ -15,7 +15,10 @@ Welcome to my portfolio! This site showcases my projects in **SQL**, **Power BI*
 
 ### 🔹 Excel Reporting  
 - 🔗 [View Repository](https://github.com/Divyeshchoudhary59/Excel)  
-- 📉 Advanced Excel reporting with pivot tables, charts, and automation for business insights.  
+- 📉 Advanced Excel reporting with pivot tables, charts, and automation for business insights.
+
+- ## 📄 CV
+You can download my CV here: [Download CV](Divyesh_Choudhary_CV.pdf)
 
 ---
 
