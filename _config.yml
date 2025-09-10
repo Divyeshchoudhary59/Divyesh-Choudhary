@@ -2,3 +2,7 @@ title: "Divyesh Choudhary - Business Analyst Portfolio"
 description: "Showcasing projects in SQL, Power BI, and Excel"
 theme: jekyll-theme-cayman
 author: Divyesh Choudhary
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme 
