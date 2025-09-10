@@ -1,9 +1,7 @@
-# 👋 # 👋 Hi, I'm Divyesh Choudhary  
+ Hi, I'm Divyesh Choudhary  
 Business Analyst | MSc in Management & Business Analytics  
 
 Welcome to my portfolio! This site showcases my projects in **SQL**, **Power BI**, and **Excel**, highlighting my skills in business analysis, data visualization, and data-driven decision-making.  
-
----
 
 ## 📂 Projects  
 
